@@ -1,7 +1,7 @@
 # BrazilJS Fortaleza 2017
 A collection of links, interesting things about the talks, photos and insights.
 
-# Day 0
+# Day 1 - [September 1]
 
 ## Microservices using NodeJS and RabbitMQ
 
@@ -36,7 +36,7 @@ In this talk, [Matheus Fernandes](http://matheus.top/) explains a bit about micr
 
 He did one example of micro service using [micro](https://github.com/zeit/micro).
 
-# Day 2
+# Day 2 - [September 2]
 
 ## Zen and the art of code maintenance
 
@@ -48,10 +48,12 @@ He did one example of micro service using [micro](https://github.com/zeit/micro)
 
 ## EcmaScript 7
 
-- [Fernanda Bernardo]()
+- [Fernanda Bernardo](https://twitter.com/Feh_Bernardo)
 - [Slides](https://www.slideshare.net/fehbernardo/ecmascript-verso-extendida)
 
-## How to Be a Compiler (@kosamari)
+## How to Be a Compiler
+
+- [Mariko Kosaka](https://twitter.com/kosamari)
 
 You are a parser
 
